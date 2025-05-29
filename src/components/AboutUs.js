@@ -23,8 +23,8 @@ const AboutUs = () => {
         {/* Right Side: Image */}
         <div className="lg:w-1/2">
           <img
-            src="/images/hero1.png"
-            alt="Digital Transformation Hub"
+            src="/images/hero2.png"
+            alt="Digital Transformation Sport"
             className="w-full h-auto rounded-lg shadow-lg transform hover:scale-105 transition duration-500"
           />
         </div>
